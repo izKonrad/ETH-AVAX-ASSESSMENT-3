@@ -1,4 +1,4 @@
-# ETH+AVAX Assessment 3 Types of FUnctions
+# ETH+AVAX Assessment 3 Types of Functions
 ## Overview
 This is a project with a smart contract that create, destroys, and transfers token. The smart contract allows to name your own token and also set a smbol for it. The functions are the following:1. The contract owner should be able to mint tokens to a provided address.
 2.Any user should be able to burn and transfer tokens.
